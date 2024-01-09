@@ -1,0 +1,1 @@
+model = torch.hub.load('ultralytics/yolov5', 'custom', path='yolov5/runs/train/exp47/wight/last.pt', )
